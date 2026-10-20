@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Hai, saya Muhammad Haziq!
 
-<!--
-**Haziq380/Haziq380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang ke profil GitHub saya! 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Mengenai Saya
+
+- 🔭 **Pendidikan:** Pelajar Tahun Pertama bagi **Ijazah Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian** di **Universiti Teknologi Malaysia (UTM)**.
+- 🎯 **Fokus & Minat:** Sains Data, Kejuruteraan Data, Analisis Data, dan Pembangunan Perisian.
+- 🌱 **Sedang Mempelajari:** Asas Pengaturcaraan, Git & GitHub, dan Asas Struktur Data.
+- 💬 **Tanya Saya Tentang:** Pengalaman tahun pertama di UTM!
+
+---
+
+## 🛠️ Kemahiran & Bahasa Pengaturcaraan
+
+- **Bahasa:** Python, C++
+- **Alatan:** Git, GitHub, VS Code
+
+---
+
+## 📬 Hubungi Saya
+
+- **LinkedIn:** www.linkedin.com/in/muhammad-haziq-hamdan-nazeri
+- **Emel:** muhammadhaziq.hn@graduate.utm.my
+
+---
+
+⭐️ *Terima kasih kerana melawat profil saya!*
